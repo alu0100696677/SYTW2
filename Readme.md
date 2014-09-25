@@ -15,7 +15,7 @@ Mª Belén Armas Torres
 Objetivo
 -----------
 
-Accedemos a Twitter en una aplicación Sinatra que muestre en una página los últimos twitts de una lista de usuarios obtenidos desde un formulario.
+Accedemos a Twitter en una aplicación Sinatra que muestre en una página los usuarios más relevantes de la lista de personas que seguimos.
 
 Instalación
 --------------
